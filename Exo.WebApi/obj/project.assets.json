@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\salaz\\OneDrive\\Documentos\\_curso\\Desenvolvimento de APIs\\04c - Atividade 3\\Atividade 03\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\salaz\\OneDrive\\Documentos\\_curso\\Desenvolvimento de APIs\\atividade 6\\aprendendo-APIs\\Exo.WebApi\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\salaz\\OneDrive\\Documentos\\_curso\\Desenvolvimento de APIs\\04c - Atividade 3\\Atividade 03\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\salaz\\OneDrive\\Documentos\\_curso\\Desenvolvimento de APIs\\atividade 6\\aprendendo-APIs\\Exo.WebApi\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\salaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\salaz\\OneDrive\\Documentos\\_curso\\Desenvolvimento de APIs\\04c - Atividade 3\\Atividade 03\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\salaz\\OneDrive\\Documentos\\_curso\\Desenvolvimento de APIs\\atividade 6\\aprendendo-APIs\\Exo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\salaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
